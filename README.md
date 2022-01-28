@@ -1,2 +1,3 @@
-# supreme-octo-funicular
-Explore the Go exercises on Exercism
+# Supreme Octo Funicular
+
+Explore the Go exercises on Exercism https://exercism.org/tracks/go/exercises
