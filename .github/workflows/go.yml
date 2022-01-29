@@ -24,6 +24,9 @@ jobs:
     - name: Blackjack
       run: cd blackjack && go test
 
+    - name: Booking Up For Beauty
+      run: cd booking-up-for-beauty && go test
+
     - name: Card Tricks 
       run: cd card-tricks && go test
 
