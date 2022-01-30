@@ -45,6 +45,9 @@ jobs:
     - name: Lasagna
       run: cd lasagna && go test
 
+    - name: Lasagna Master
+      run: cd lasagna-master && go test
+
     - name:  Need For Speed
       run: cd need-for-speed && go test
 
