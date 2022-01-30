@@ -36,6 +36,9 @@ jobs:
     - name: Cars Assemble
       run: cd cars-assemble && go test
 
+    - name: Gross Store
+      run: cd gross-store && go test
+
     - name: Hello World
       run: cd hello-world && go test
 
