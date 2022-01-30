@@ -21,6 +21,9 @@ jobs:
     - name: Annalyns Infiltration
       run: cd annalyns-infiltration && go test
 
+    - name: Bird Watcher
+      run: cd bird-watcher && go test
+
     - name: Blackjack
       run: cd blackjack && go test
 
