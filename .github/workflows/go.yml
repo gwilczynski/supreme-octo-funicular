@@ -39,6 +39,9 @@ jobs:
     - name: Chessboard
       run: cd chessboard && go test
 
+    - name: Election Day
+      run: cd election-day && go test
+
     - name: Gross Store
       run: cd gross-store && go test
 
