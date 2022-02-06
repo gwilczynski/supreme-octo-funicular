@@ -57,6 +57,9 @@ jobs:
     - name: Lasagna
       run: cd lasagna && go test
 
+    - name: Logs Logs Logs
+      run: cd logs-logs-logs && go test
+
     - name: Lasagna Master
       run: cd lasagna-master && go test
 
