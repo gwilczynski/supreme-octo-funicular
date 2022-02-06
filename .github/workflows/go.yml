@@ -42,6 +42,9 @@ jobs:
     - name: Election Day
       run: cd election-day && go test
 
+    - name: Elons Toys
+      run: cd elons-toys && go test
+
     - name: Gross Store
       run: cd gross-store && go test
 
