@@ -36,6 +36,9 @@ jobs:
     - name: Cars Assemble
       run: cd cars-assemble && go test
 
+    - name: Census
+      run: cd census && go test
+
     - name: Chessboard
       run: cd chessboard && go test
 
