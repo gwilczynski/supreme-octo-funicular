@@ -72,6 +72,9 @@ jobs:
     - name: Party Robot
       run: cd party-robot && go test
 
+    - name: Sorting Room
+      run: cd sorting-room && go test
+
     - name: The Farm
       run: cd the-farm && go test
 
